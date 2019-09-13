@@ -1,0 +1,1 @@
+To load level set R value in RGB scale to the level index in the GameStateManager, set G to zero and B to 100
