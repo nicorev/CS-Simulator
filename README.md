@@ -1,7 +1,6 @@
 # Hanlon-Simulator
 Simple 2D game coded with only native Java libraries
-Please look at videos folder for examples
-
+[https://www.youtube.com/watch?v=VPmtIVExQHU&feature=youtu.be]
 This is a proof of concept game to experiment with the capabilities of Java.
 It doesn't really have a story, other than you are trapped inside cyberspace
 
